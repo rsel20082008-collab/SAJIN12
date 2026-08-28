@@ -1,3 +1,2 @@
 pyTelegramBotAPI
-aiohttp
-beautifulsoup4
+httpx
